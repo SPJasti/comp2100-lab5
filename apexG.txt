@@ -1,0 +1,57 @@
+Participant 1: 
+Notes from during interview: 
+The participant found it helpful to write down information presented in our prototype. They thought their persona, a 22-year-old university student studying for an assignment would do something similar.  
+Through observations, it looked as if the participant found the user interface intuitive. They seemed to be able to easily navigate through the prototype. 
+The participant seemed very happy to interact with the interviewer. They were very open with their responses and did not take much prompting to think deeply and speak about the questions. 
+ 
+Q: Is there any overall feedback that you could give us about the overall prototype? 
+ 
+A: “The 3D model is really good; it is an interesting way to show the information. In a more finalised version of the prototype, I think the experience would be truly immersive. I thought the controls were intuitive and all the information was placed in a reasonable place. I could even imagine going to a museum where this virtual display was showed on a big screen as an alternative to the original exhibit.” 
+ 
+Q: Do you think the guided tour button was a good addition in the prototype? 
+A: “The guided tour is a great way to relax and have the information presented to me. If I wasn’t proficient in moving the model it could be very confusing and irritating trying to move it around. The continue button in the prototype was a bit confusing, I clicked on the continue button and on the next page, it didn’t have another ‘continue’ button, but a back one. This resulted in me going around in circles. The progression through the timeline should be linear. I also think the continue button of the guided tour could be made a little bit more obvious.” 
+ 
+Answers from the questionnaire: 
+Learning style: Kinesthetic 
+Name of river that flows between the tribes: Glyde 
+Number of logs in exhibit: 200 
+Indigenous word for Goanna: Gulong 
+ 
+Participant 2: 
+Notes from during interview: 
+When we remaindered her that there is going to be a questionnaire towards the end of the user evaluation, she felt comfortable to memorize the information rather write it down. 
+Was a little confused as to what she was supposed to click even though we pointed out the button and its location. 
+Although the participant found navigation through the prototype confusing, she really liked the idea and execution on the 3D model and later after learning what the logs represent she appreciates the way we decided to present the exhibit. 
+The participant was a bit hesitant to speak at the beginning of the user evaluation. They were more open to speaking towards the end of the interview. 
+Q: Is there any overall feedback that you could give us about the overall prototype? 
+ 
+A: “I was wondering what the logs are, even when I went through the information presented on guided tour button” said PID 2. “would have liked the ‘continue’ button being a little more emphasizing” 
+Q: Do you think the guided tour button was a good addition in the prototype? 
+A: “the intention of adding the button was good and fulfils the requirement but the UI could have been a little more refined” 
+Answers from the questionnaire: 
+Learning style: Kinesthetic 
+Name of river that flows between the tribes: Glyde 
+Number of logs in exhibit: 200 
+Indigenous word for Goanna: Wardapi 
+ 
+Participant 3: 
+Notes from during interview: 
+At the beginning of the interview the participant seemed to be a bit hesitant to speak, they were following along with the instructions quite well. Perhaps we could have had some more small talk at the beginning to help her settle into the user test before we started. 
+There was a bit of confusion about clicking through the timeline, perhaps the instructions were not clear enough.  
+The participant seemed easily capable of navigating through the 3D model. I would assume that the participant is experienced with using computer either through their studies or otherwise. While the interviewer was talking about the information, the participant seemed to be exploring the slides and was using the controls as anticipated. 
+After we finished going through the prototype and we asked some questions, the participant seemed to relax a little bit more. It might have been better to ask questions earlier on to build some more dialogue and help the participant relax. 
+ 
+Q: Is there any overall feedback that you could give us about the overall prototype? 
+ 
+A: “I really liked the idea to be able to move the camera around and the ability to explore in a 3D space is really good. The information on the individual logs was really good too. I really liked that I was able to learn a bit more about the artwork itself as well as the people who created it.” 
+ 
+Q: Do you think the guided tour button was a good addition in the prototype? 
+A: “I think that the guided tour fulfils a purpose, it is very easy to use. I’m sure that people that I know who are not technically capable would be able to enjoy using it.” 
+ 
+Answers from the questionnaire: 
+Learning style: Visual 
+Name of river that flows between the tribes: Glyde 
+Number of logs in exhibit: 200 
+Indigenous word for Goanna: Wardapi 
+ 
+ 
