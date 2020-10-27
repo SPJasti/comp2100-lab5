@@ -125,9 +125,11 @@ def read_arg(argv):
 	print "  Updates per display ",update
 	print "  Verbose             ",verbose
 	return
+
+		
 # some default input parameters
 verbose    = int(0)
-N          = int(15)
+N          = int(13)
 separation = float(1.0)
 mass       = float(1.0)
 fcon       = float(10.0)
@@ -157,12 +159,15 @@ while (1):
 		node.pos +=dt*(node.velocity+dt*node.force*0.5)
 		node.oldforce=node.force
 
+		
 #	apply constraints (move nodes to surface of ball)
 	for node in nodes:
 		dist = node.pos-vector(myball.x,myball.y,myball.z)
 		if dist.mag < myball.radius:
 			fvector=dist/dist.mag*myball.radius
 			node.pos=vector(myball.x,myball.y,myball.z)+fvector
+			node.velocity = node.velocity - (dot(node.velocity,fvector/fvector.mag))*(fvector/fvector.mag)			
+
 
 	if (iter%update == 0):
 #   update the view if necessary
